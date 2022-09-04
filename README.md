@@ -5,19 +5,19 @@ Are you frustated by the LPU Wifi login system?
 Don't worry there is a solution to every problem.
 
 ## Steps to use
-### Clone the repository:
+- ### Clone the repository:
 
 ``` git clone https://github.com/imhimanshusoni/LPU_WIFI_Autologin.git ```
 
-### Go to cloned folder:
+- ### Go to cloned folder:
 
 ``` cd LPU_WIFI_Autologin ```
 
-### Install the requirements:
+- ### Install the requirements:
 
 ``` pip install -U -r requirements.txt ```
 
-### Run the python script:
+- ### Run the python script:
 
 > Before running you need to fill your username and password inside the file *login.py*.
 
