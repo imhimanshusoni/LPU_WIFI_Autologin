@@ -1,6 +1,6 @@
 import time
 from selenium import webdriver
-driver = webdriver.Firefox(executable_path='/home/himanshu/Downloads/gk/geckodriver')
+driver = webdriver.Firefox(executable_path='geckodriver')
 driver.get('https://internet.lpu.in/24online/webpages/client.jsp')
 time.sleep(1)
 name = "ur_username"
