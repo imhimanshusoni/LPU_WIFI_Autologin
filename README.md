@@ -22,9 +22,8 @@ Don't worry there is a solution to every problem.
 > Before running you need to fill your username and password inside the file *login.py*.
 
 > Also, make sure you specify the correct path of Webdriver in line 3 of *login.py*
-- For Windows: 
-> Make line 3 as 
-``` driver = webdriver.Chrome() ```
+
+[Click Here](https://github.com/mozilla/geckodriver/releases/tag/v0.31.0) to download Geckodriver.
 
 ``` python login.py ```
 
