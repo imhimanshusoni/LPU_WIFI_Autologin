@@ -15,7 +15,7 @@ Don't worry there is a solution to every problem.
 
 - ### Install the requirements:
 
-``` pip install -U -r requirements.txt ```
+``` pip install selenium ```
 
 - ### Run the python script:
 
