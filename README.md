@@ -23,7 +23,7 @@ Don't worry there is a solution to every problem.
 
 > Also, make sure you specify the correct path of Webdriver in line 3 of *login.py*
 
-[Click Here](https://github.com/mozilla/geckodriver/releases/tag/v0.31.0) to download Geckodriver.
+[Click Here](https://github.com/mozilla/geckodriver/releases) to download Geckodriver.
 
 ``` python login.py ```
 
